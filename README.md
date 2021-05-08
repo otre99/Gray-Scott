@@ -8,7 +8,6 @@ Just use QtSDK-5.12.* and open CMakeList.txt with QtCreator tool. It doesn't nee
 
 ## To do:
 * Save the results 
-* Implement an unconditionally stable scheme (eg, Crank-Nicolson)
 
 ## Gallery
 ![](./Screenshot_01.png?raw=true "Title") ![](./Screenshot_02.png?raw=true "Title") ![](./Screenshot_03.png?raw=true "Title")
